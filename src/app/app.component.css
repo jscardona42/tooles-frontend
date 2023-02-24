@@ -1,0 +1,22 @@
+* {
+    font-family: Lato;
+  }
+  
+  li {
+    list-style-type: none;
+    margin-top: 5px;
+  }
+  
+  .name {
+    font-size: 20px;
+    margin-top: 15px;
+    font-weight: 500;
+    color: brown;
+    cursor: pointer;
+  }
+  
+  .moreInfo {
+    background-color: #eee;
+    width: 200px;
+    padding: 10px;
+  }
